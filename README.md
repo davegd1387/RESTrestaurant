@@ -1,4 +1,4 @@
-#Codecademy
+# Codecademy
 # Off-Platform Project: RESTful Restaurants
 Build an API to store and retrieve information about your favorite restaurants!
 
